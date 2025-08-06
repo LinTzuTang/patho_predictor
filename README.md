@@ -1,6 +1,6 @@
 # Pathogenicity of DNA Sequences Predictor
 
-This tool predicts the pathogenicity of sequences read from a FASTA file using a pre-trained RandomForest model. The sequences are encoded into k-mer frequencies, and the model outputs the probability of each sequence being pathogenic.
+This tool predicts the pathogenicity of sequences read from a FASTA file using a pre-trained RandomForest model. The sequences are encoded into k-mer frequencies, and the model outputs the probability of each sequence being pathogenic. Details see [the report](./PathoVF.pdf).
 
 ## Features
  
